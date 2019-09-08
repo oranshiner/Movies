@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">הסרטים שלי</string>
+    <string name="overview">תקציר</string>
+    <string name="image">תמונה</string>
+    <string name="show">הצג</string>
+    <string name="save">שמור</string>
+    <string name="title">שם</string>
+    <string name="add">הוסף</string>
+    <string name="search">חיפוש</string>
+    <string name="keyword">מילת חיפוש</string>
+    <string name="manual">ידני</string>
+    <string name="web">רשת</string>
+    <string name="Exit">יציאה</string>
+    <string name="Delete_All">מחק הכל</string>
+</resources>

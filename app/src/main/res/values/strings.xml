@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="image">Image(URL)</string>
+    <string name="show">Show</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="keyword">Keyword</string>
+    <string name="web">Web</string>
+    <string name="manual">Manual</string>
+    <string name="Delete_All">Delete All</string>
+    <string name="Exit">Exit</string>
+
+</resources>
